@@ -1,9 +1,5 @@
-# quant_backtest_platform
-## Copyright
+# 量化平台（SickFun）
 
-Copyright © 2026 Your Name. All Rights Reserved.
+基于 FastAPI + React(Vite) 的量化策略提交与排行榜平台。
 
-This project is provided for viewing purposes only.
-No license is granted to use, copy, modify, distribute,
-or commercially exploit this source code without
-prior written permission.
+按 `../回测网站开发教程.md` 逐步搭建。
